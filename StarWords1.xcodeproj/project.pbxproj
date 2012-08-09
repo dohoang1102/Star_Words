@@ -33,13 +33,13 @@
 		D3270624146C4DAC00ADE11E /* Padawan1GameController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D3270622146C4DAC00ADE11E /* Padawan1GameController.xib */; };
 		D3270628146C4DC200ADE11E /* Jedi1GameController.m in Sources */ = {isa = PBXBuildFile; fileRef = D3270626146C4DC200ADE11E /* Jedi1GameController.m */; };
 		D3270629146C4DC200ADE11E /* Jedi1GameController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D3270627146C4DC200ADE11E /* Jedi1GameController.xib */; };
-		D34777E615D453EB00974A11 /* sw1.png in Resources */ = {isa = PBXBuildFile; fileRef = D34777E015D453EB00974A11 /* sw1.png */; };
 		D34777E715D453EB00974A11 /* sw2.png in Resources */ = {isa = PBXBuildFile; fileRef = D34777E115D453EB00974A11 /* sw2.png */; };
 		D34777E815D453EB00974A11 /* sw3.png in Resources */ = {isa = PBXBuildFile; fileRef = D34777E215D453EB00974A11 /* sw3.png */; };
 		D34777E915D453EB00974A11 /* sw4.png in Resources */ = {isa = PBXBuildFile; fileRef = D34777E315D453EB00974A11 /* sw4.png */; };
 		D34777EA15D453EB00974A11 /* sw5.png in Resources */ = {isa = PBXBuildFile; fileRef = D34777E415D453EB00974A11 /* sw5.png */; };
 		D34777EB15D453EB00974A11 /* sw6.png in Resources */ = {isa = PBXBuildFile; fileRef = D34777E515D453EB00974A11 /* sw6.png */; };
 		D34777ED15D453F500974A11 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = D34777EC15D453F500974A11 /* README.md */; };
+		D34777FB15D46F8300974A11 /* sw1a.png in Resources */ = {isa = PBXBuildFile; fileRef = D34777FA15D46F8300974A11 /* sw1a.png */; };
 		D35712CC14719D7C00ECD0E1 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D35712CB14719D7C00ECD0E1 /* AudioToolbox.framework */; };
 		D35712ED1472131B00ECD0E1 /* Newbie1GameView.m in Sources */ = {isa = PBXBuildFile; fileRef = D35712EC1472131B00ECD0E1 /* Newbie1GameView.m */; };
 		D385224D14772F5B005571C3 /* Globals.m in Sources */ = {isa = PBXBuildFile; fileRef = D385224C14772F5B005571C3 /* Globals.m */; };
@@ -214,13 +214,13 @@
 		D3270625146C4DC200ADE11E /* Jedi1GameController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Jedi1GameController.h; sourceTree = "<group>"; };
 		D3270626146C4DC200ADE11E /* Jedi1GameController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Jedi1GameController.m; sourceTree = "<group>"; };
 		D3270627146C4DC200ADE11E /* Jedi1GameController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Jedi1GameController.xib; sourceTree = "<group>"; };
-		D34777E015D453EB00974A11 /* sw1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sw1.png; sourceTree = "<group>"; };
 		D34777E115D453EB00974A11 /* sw2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sw2.png; sourceTree = "<group>"; };
 		D34777E215D453EB00974A11 /* sw3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sw3.png; sourceTree = "<group>"; };
 		D34777E315D453EB00974A11 /* sw4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sw4.png; sourceTree = "<group>"; };
 		D34777E415D453EB00974A11 /* sw5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sw5.png; sourceTree = "<group>"; };
 		D34777E515D453EB00974A11 /* sw6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sw6.png; sourceTree = "<group>"; };
 		D34777EC15D453F500974A11 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
+		D34777FA15D46F8300974A11 /* sw1a.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sw1a.png; sourceTree = "<group>"; };
 		D35712CB14719D7C00ECD0E1 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
 		D35712EB1472131B00ECD0E1 /* Newbie1GameView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Newbie1GameView.h; sourceTree = "<group>"; };
 		D35712EC1472131B00ECD0E1 /* Newbie1GameView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Newbie1GameView.m; sourceTree = "<group>"; };
@@ -495,7 +495,7 @@
 		D34777DF15D453EB00974A11 /* _README_ASSETS */ = {
 			isa = PBXGroup;
 			children = (
-				D34777E015D453EB00974A11 /* sw1.png */,
+				D34777FA15D46F8300974A11 /* sw1a.png */,
 				D34777E115D453EB00974A11 /* sw2.png */,
 				D34777E215D453EB00974A11 /* sw3.png */,
 				D34777E315D453EB00974A11 /* sw4.png */,
@@ -835,13 +835,13 @@
 				D38F2499147AC4EE005C172D /* j1_You've.png in Resources */,
 				D38F249B147AD6EE005C172D /* motti.png in Resources */,
 				D38F249D147AE11E005C172D /* icon.png in Resources */,
-				D34777E615D453EB00974A11 /* sw1.png in Resources */,
 				D34777E715D453EB00974A11 /* sw2.png in Resources */,
 				D34777E815D453EB00974A11 /* sw3.png in Resources */,
 				D34777E915D453EB00974A11 /* sw4.png in Resources */,
 				D34777EA15D453EB00974A11 /* sw5.png in Resources */,
 				D34777EB15D453EB00974A11 /* sw6.png in Resources */,
 				D34777ED15D453F500974A11 /* README.md in Resources */,
+				D34777FB15D46F8300974A11 /* sw1a.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
